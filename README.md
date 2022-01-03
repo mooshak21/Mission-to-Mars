@@ -24,3 +24,8 @@ My goal for this project is to dynamically scrape information from multiple webs
 **scrape_mars function:** the goal of this function is to retrieve 4 images and their names. We are doing this in a fashion that doesn't hard-code the results, but rather will dynamically retrieve the most recent titles and images from the site because we are looking for the first 4 'img' tags rather than hard-coding the URLs in the 'img' tag. 
 
 ![](https://github.com/mooshak21/Mission-to-Mars/blob/main/Resources/scrape_mars.png)
+
+## Final Site
+Her we can see the final site hosted by Flask that displays all of the information we retrieved with the function above. I also added different bootstap elements to change the theme, change the scrape data image to a magnifying glass, and change the layout of the site. 
+
+![](https://github.com/mooshak21/Mission-to-Mars/blob/main/Resources/full_site).png)
