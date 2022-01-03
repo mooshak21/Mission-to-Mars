@@ -28,4 +28,4 @@ My goal for this project is to dynamically scrape information from multiple webs
 ## Final Site
 Her we can see the final site hosted by Flask that displays all of the information we retrieved with the function above. I also added different bootstap elements to change the theme, change the scrape data image to a magnifying glass, and change the layout of the site. 
 
-![](https://github.com/mooshak21/Mission-to-Mars/blob/main/Resources/full_site).png)
+![](https://github.com/mooshak21/Mission-to-Mars/blob/main/Resources/full_site.png)
